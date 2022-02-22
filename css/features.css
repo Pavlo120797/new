@@ -1,0 +1,10 @@
+.features__back {
+  background-image: url(../img/background_features.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+          background-size: cover;
+  height: 803px;
+  color: white; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZlYXR1cmVzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRyxxREFBcUQ7RUFDdEQsNEJBQTRCO0VBQzVCLGtDQUFrQztFQUNsQyw4QkFBc0I7VUFBdEIsc0JBQXNCO0VBQ3RCLGFBQWE7RUFDYixZQUFZLEVBQUEiLCJmaWxlIjoiZmVhdHVyZXMuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmZlYXR1cmVzX19iYWNre1xuICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC4uL2ltZy9iYWNrZ3JvdW5kX2ZlYXR1cmVzLnBuZyk7XG4gIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XG4gIGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBjZW50ZXI7XG4gIGJhY2tncm91bmQtc2l6ZTogY292ZXI7XG4gIGhlaWdodDogODAzcHg7XG4gIGNvbG9yOiB3aGl0ZTtcbn1cbiJdfQ== */

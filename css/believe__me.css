@@ -1,0 +1,9 @@
+.believe__back {
+  background-image: url(../img/background_believe.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+          background-size: cover;
+  height: 723px; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJlbGlldmVfX21lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxvREFBb0Q7RUFDcEQsNEJBQTRCO0VBQzVCLGtDQUFrQztFQUNsQyw4QkFBc0I7VUFBdEIsc0JBQXNCO0VBQ3RCLGFBQWEsRUFBQSIsImZpbGUiOiJiZWxpZXZlX19tZS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYmVsaWV2ZV9fYmFja3tcbiAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC4uL2ltZy9iYWNrZ3JvdW5kX2JlbGlldmUucG5nKTtcbiAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcbiAgYmFja2dyb3VuZC1wb3NpdGlvbjogY2VudGVyIGNlbnRlcjtcbiAgYmFja2dyb3VuZC1zaXplOiBjb3ZlcjtcbiAgaGVpZ2h0OiA3MjNweDtcbn1cbiJdfQ== */

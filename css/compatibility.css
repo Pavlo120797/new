@@ -1,0 +1,9 @@
+.compatibility__back {
+  background-image: url(../img/background_compatibility.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+          background-size: cover;
+  height: 444px; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBhdGliaWxpdHkuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNHLDBEQUEwRDtFQUMzRCw0QkFBNEI7RUFDNUIsa0NBQWtDO0VBQ2xDLDhCQUFzQjtVQUF0QixzQkFBc0I7RUFDdEIsYUFBYSxFQUFBIiwiZmlsZSI6ImNvbXBhdGliaWxpdHkuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbXBhdGliaWxpdHlfX2JhY2t7XG4gICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoLi4vaW1nL2JhY2tncm91bmRfY29tcGF0aWJpbGl0eS5wbmcpO1xuICBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBjZW50ZXIgY2VudGVyO1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICBoZWlnaHQ6IDQ0NHB4O1xufVxuIl19 */
